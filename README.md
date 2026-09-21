@@ -111,6 +111,7 @@ Remote
 
 - Achieved a peak generation throughput of 2.8 million lines of pristine, production-ready code in just 4 minutes (>10k LOC/sec, Windows 10, Node.js).
 - Successfully stress-tested the framework up to 6.7 million lines of code in 25 minutes on a standard 64GB RAM machine (Windows 10, Node.js).
+
 **Spatial IDE Prototyping:** Initiated and developed a Concept-Driven Spatial IDE prototype as an immersive, 3D workspace (built via three.js) designed to map complex AST schema trees visually.
 
 **Tech Stack:** Metaprogramming, JavaScript, Node.js, Bun, AST transformations, Code generation, tree-sitter, three.js, three-text, vscode.
