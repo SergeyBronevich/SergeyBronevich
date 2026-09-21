@@ -202,7 +202,7 @@ Remote
 
 **Railway Subgrade Analyzer:** Engineered a GIS desktop application for geographic data processing, parsing and visualizing laser-scanning topography data across AutoCAD DXF, ArcGIS SHP, and ASC formats using high-performance OpenGL.
 
-**Windows Ecosystem Tooling:** Formulated a lightweight, proprietary objectoriented C++ wrapper library over the native Windows API and developed an optimized custom raster graphics loading/manipulation library.
+**Windows Ecosystem Tooling:** Formulated a lightweight, proprietary object-oriented C++ wrapper library over the native Windows API and developed an optimized custom raster graphics loading/manipulation library.
 
 **Tech Stack:** C++, Mathcad, Windows API, Image Formats, OpenGL, Boost, GDAL, GIS Formats, Computer Vision, Railway Infrastructure Monitoring, LiDAR Data Processing, 3D Surface Reconstruction (Ballast Prism), Object Detection (Picket Posts).
 
