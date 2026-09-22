@@ -29,7 +29,7 @@ Whether deploying custom automated R&D solutions, architecting greenfield platfo
 
 ### Universal Algorithmic Synthesis Core (Programmatic Code-Driven Architecture)
 
-Architected and developed a production-ready, ultra-lightweight core development framework driven by a **host-agnostic, universal processing algorithm**. Instead of relying on static templates or rigid configurations, the framework treats all software-including its own meta-engine, third-party libraries, and manual implementations-as a single closed-loop ecosystem of homogenous data. Everything is ingested, parsed, and unified into a single systemic tree graph, allowing the core processing algorithm to dynamically mutate, pivot, and synthesize the entire multi-tier system into any target language or runtime representation.
+Architected and developed a production-ready, ultra-lightweight core development framework driven by a **host-agnostic, universal graph-rewriting engine**. Instead of relying on static templates or rigid configurations, the framework treats all software-including its own meta-engine, third-party libraries, and manual implementations-as a single closed-loop ecosystem of homogenous data. Everything is ingested, parsed, and unified into a single systemic tree graph, allowing the core processing algorithm to dynamically mutate, pivot, and synthesize the entire multi-tier system into any target language or runtime representation.
 
 * **Programmatic Node Calculation:** Eliminates manual layout and repetitive definition of system components. Complex multi-tier structures and application nodes are algorithmically computed and generated via code logic, removing human error and handling massive scale with minimal input.
 
@@ -202,7 +202,9 @@ Remote
 
 **Railway Subgrade Analyzer:** Engineered a GIS desktop application for geographic data processing, parsing and visualizing laser-scanning topography data across AutoCAD DXF, ArcGIS SHP, and ASC formats using high-performance OpenGL.
 
-**Windows Ecosystem Tooling:** Formulated a lightweight, proprietary objectoriented C++ wrapper library over the native Windows API and developed an optimized custom raster graphics loading/manipulation library.
+**Windows Ecosystem Tooling:** Formulated a lightweight, object-oriented C++ wrapper library over the native Windows API and developed an optimized custom raster graphics loading/manipulation library.
+
+**Document Imaging & Processing Application:** Engineered a high-performance Windows desktop application for high-speed document scanning, editing, and raster transformation across multi-page TIFF and PDF formats utilizing the TWAIN API.
 
 **Tech Stack:** C++, Mathcad, Windows API, Image Formats, OpenGL, Boost, GDAL, GIS Formats, Computer Vision, Railway Infrastructure Monitoring, LiDAR Data Processing, 3D Surface Reconstruction (Ballast Prism), Object Detection (Picket Posts).
 
