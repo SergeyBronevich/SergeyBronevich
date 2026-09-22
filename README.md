@@ -1,4 +1,3 @@
-
 # Sergey Bronevich
 ## Principal Systems & Software Architect | DevTools & Metaprogramming Expert | Transpiler Engineer | 20+ Yrs Experience
 #### Email: sergey.bronevich@gmail.com
@@ -18,7 +17,7 @@ Zero-Bus-Factor Architecture: Driven by my Recursive Polymorphic Meta Code Gener
 
 Once the foundation is laid, my setup scales seamlessly through tight, collaborative teams of 3-5 specialists - spanning core developers, hardware experts, and vital domain specialists who define the real-world business logic. I lead through high autonomy, mutual trust, and deep respect for individual expertise. I don't believe in micromanagement; instead, I use automation to completely eliminate manual friction from the environment, giving every specialist the freedom to naturally perform at their absolute best and see the immediate, tangible impact of their work.
 
-I strictly treat existing, revenue-generating legacy code as an immutable input invariant. I consider manual refactoring of running legacy systems to be fundamentally harmful and commercially irresponsible; instead, my core engine parses legacy ASTs and algorithmically wraps trusted industry solutions with calculated tracing, deep profiling, and automated logging layers without breaking what already works.
+My core engine treats any data-including technical documentation, third-party code, and open-source libraries-as standard input invariants. It parses legacy ASTs and wraps existing, trusted industry solutions with calculated tracing, deep profiling, and automated logging layers.
 
 As a technical leader, I focus entirely on business velocity (Time-to-MVP/Market) and ruthless risk mitigation: rapid prototyping to validate systems early, and a clear mandate to cut losses immediately when an R&D concept lacks commercial perspective. I build automated software factories so you can scale technical output with a highly optimized team footprint.
 
@@ -201,7 +200,7 @@ Remote
 
 **Railway Subgrade Analyzer:** Engineered a GIS desktop application for geographic data processing, parsing and visualizing laser-scanning topography data across AutoCAD DXF, ArcGIS SHP, and ASC formats using high-performance OpenGL.
 
-**Windows Ecosystem Tooling:** Formulated a lightweight, proprietary object-oriented C++ wrapper library over the native Windows API and developed an optimized custom raster graphics loading/manipulation library.
+**Windows Ecosystem Tooling:** Formulated a lightweight, proprietary objectoriented C++ wrapper library over the native Windows API and developed an optimized custom raster graphics loading/manipulation library.
 
 **Tech Stack:** C++, Mathcad, Windows API, Image Formats, OpenGL, Boost, GDAL, GIS Formats, Computer Vision, Railway Infrastructure Monitoring, LiDAR Data Processing, 3D Surface Reconstruction (Ballast Prism), Object Detection (Picket Posts).
 
