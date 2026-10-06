@@ -247,7 +247,7 @@ On-Site
 ## Education
 
 ### Taganrog State University of Radio Engineering
-#### Master's Degree, Automation and Software Systems
+#### Master's Degree, Computer Science & Software Engineering
 *September 2005 - August 2006*
 
 **Diploma Project:** Developed a software system for procedural three-dimensional landscape generation.
@@ -255,7 +255,7 @@ On-Site
 **Tech Stack:** C++, OpenGL, Windows API, MS Visual Studio.
 
 ### Taganrog State University of Radio Engineering
-#### Bachelor's Degree, Automation and Software Systems
+#### Bachelor's Degree, Computer Science & Software Engineering
 *September 2001 - August 2005*
 
 **Diploma Project:** Designed and implemented a 3D graphics engine utilizing the OpenGL library.
