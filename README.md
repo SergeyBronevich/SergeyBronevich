@@ -146,7 +146,7 @@ Maintained and implemented features for the access control system (Apacs).
 
 **Tech Stack:** C++, Mathcad, Windows API, Image Formats, OpenGL, Boost, GDAL, GIS Formats, Computer Vision, Railway Infrastructure Monitoring, LiDAR Data Processing, 3D Surface Reconstruction (Ballast Prism), Object Detection (Picket Posts).
 
-### Auslogics | Software Engineer
+### Software Engineer | Auslogics
 *October 2008 - November 2009 (1 year 2 months)* | Full-time | Remote
 
 Developed a part of a foundational C++ framework, mirroring the .NET class hierarchy to streamline Windows application development.
