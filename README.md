@@ -9,7 +9,7 @@
 
 ## Professional Summary
 
-As a Full-Stack Architect with over 20 years of commercial experience, I specialize in greenfield platform architecture; systems support, extension and transformation; reverse engineering; building generative engineering pipelines.
+As a Hands-on Full-Stack Architect with over 20 years of commercial experience, I specialize in greenfield platform architecture; systems support, extension and transformation; reverse engineering; building generative engineering pipelines.
 
 I treat code strictly as data, building code around data, deep domain analysis, and robust system architecture.
 
