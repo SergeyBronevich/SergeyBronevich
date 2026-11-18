@@ -1,5 +1,5 @@
 # Sergey Bronevich
-## Full-Stack Engineer | Metaprogramming & Transpiler Engineer | 20+ Yrs Experience
+## Full-Stack Engineer | 20+ Yrs Experience
 #### Email: sergey.bronevich@gmail.com
 #### Mobile: +7 918 517 53 91
 #### Telegram: +7 918 517 53 91
